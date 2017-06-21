@@ -1,5 +1,5 @@
 # hexo-description
-[![npm version](https://img.shields.io/npm/v/hexo-description.svg)](https://www.npmjs.com/package/hexo-# hexo-description)
+[![npm version](https://img.shields.io/npm/v/hexo-description.svg)](https://www.npmjs.com/package/hexo-description)
 
 A plugin for hexo. If post has no description set, will auto use excerpt as description.
 
