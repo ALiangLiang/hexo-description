@@ -1,0 +1,28 @@
+{
+  "name": "hexo-description",
+  "version": "0.1.0",
+  "description": "A plugin for hexo, auto use excerpt as post description.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALiangLiang/hexo-description.git"
+  },
+  "keywords": [
+    "hexo",
+    "excerpt",
+    "abstract",
+    "description"
+  ],
+  "author": "ALiangLiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ALiangLiang/hexo-description/issues"
+  },
+  "homepage": "https://github.com/ALiangLiang/hexo-description#readme",
+  "dependencies": {
+    "html-to-text": "^3.3.0"
+  }
+}
