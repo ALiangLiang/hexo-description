@@ -42,7 +42,7 @@ content
 excerptlist1list2
 ```
 
-## Compatible list
+## Compatible plugins
 
 - [ALiangLiang/hexo-excerpt-block](https://github.com/ALiangLiang/hexo-excerpt-block)
 - [fuchen/hexo-less](https://github.com/fuchen/hexo-less)
